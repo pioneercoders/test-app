@@ -4,3 +4,4 @@ function add(){
 }
 
 console.log("end");
+console.log("end 2...");
